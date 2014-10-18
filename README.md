@@ -1,7 +1,7 @@
 Muwbi
 =====
-Name: Tornados
-Abgabe: 17:00 Uhr
+Name: Tornados<br>
+Abgabe: 17:00 Uhr<br>
 effektive Programmierdauer: 1 Stunde
 
 Nach anfänglichen Startschwierigkeiten (von ca. 6 Stunden...) besteht meine Einsendung nun aus: Tornados.
