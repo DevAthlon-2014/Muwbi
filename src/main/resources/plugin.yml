@@ -1,8 +1,8 @@
 name: ShowerPlugin
 version: 0.1
 author: Muwbi
-main: com.muwbi.devathlon.DragonRide
+main: com.muwbi.devathlon.Tornados
 commands:
-  rideadragon:
+  tornado:
     usage: /<command>
-    description: Ride a command
+    description: Spawn a tornado
