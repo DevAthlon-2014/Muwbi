@@ -12,6 +12,7 @@ public class EntityChangeBlockListener implements Listener {
 
     @EventHandler
     public void onEntityChangeBlock( EntityChangeBlockEvent event ) {
+        // Cancel the block change of FallingBlocks
         if ( event.getEntityType() == EntityType.FALLING_BLOCK ) {
             event.setCancelled( true );
         }

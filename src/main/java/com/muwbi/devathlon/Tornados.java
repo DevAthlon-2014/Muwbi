@@ -12,8 +12,14 @@ import java.util.Random;
 @Getter
 public class Tornados extends JavaPlugin {
 
+    /**
+     * Represents the plugin's random generator
+     */
     private final Random random = new Random();
 
+    /**
+     * Represents the plugin instance
+     */
     @Getter
     private static Tornados instance;
 
